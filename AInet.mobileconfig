@@ -5,7 +5,7 @@
 	<key>ConsentText</key>
 	<dict>
 		<key>default</key>
-		<string>ASEINet APN構成プロファイル</string>
+		<string>alpha mobile APN構成プロファイル</string>
 	</dict>
 	<key>PayloadContent</key>
 	<array>
@@ -35,7 +35,7 @@
 				</dict>
 			</array>
 			<key>PayloadDisplayName</key>
-			<string></string>
+			<string>Alpha mobile</string>
 			<key>PayloadIdentifier</key>
 			<string>com.aseinet.cellular</string>
 			<key>PayloadOrganization</key>
